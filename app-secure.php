@@ -7,7 +7,7 @@ use Dice\Socket;
 
 require dirname(__FILE__) . '/vendor/autoload.php';
 
-$Port = 3000;
+$Port = 443;
 
 echo "Starting secure WebSocket on port: {$Port}\n";
 
